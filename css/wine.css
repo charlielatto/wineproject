@@ -1,0 +1,19 @@
+.text-center {
+	text-align:center;
+}
+
+.content {
+    margin: 10px auto;
+    width: 80%;
+}
+
+.logo-nav {
+	max-width:110px; 
+	margin-top: -4px;
+}
+
+.logo-main {
+	display:block;
+	margin:auto;
+	width:400px;
+}
